@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="resources.Listeners" />
+		<listener class-name="resources.ExtentReporterNG" />
+
+	</listeners>
+	<!-- <test thread-count="5" name="App Test"> -->
+	<!-- <classes> -->
+	<!-- <class name="net.phptravels.AppTest" /> -->
+
+	<!-- </classes> -->
+	<!-- </test> -->
+
+	<test thread-count="5" name="Home Page Test">
+		<classes>
+			<class name="net.phptravels.HomePageTest" />
+
+		</classes>
+	</test>
+
+	<test name="SignUp Page Test">
+		<classes>
+			<class name="net.phptravels.SignUpPageTest"/>
+		</classes>
+
+	</test>
+</suite> <!-- Suite -->

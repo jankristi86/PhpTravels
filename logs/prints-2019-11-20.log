@@ -1,0 +1,8 @@
+21:01:07.877 [main] INFO  resources.Base - nav bar is displayed
+21:01:07.905 [main] INFO  resources.Base - text not matched
+21:09:02.217 [main] INFO  resources.Base - driverinitialized
+21:09:02.293 [main] INFO  resources.Base - account dropdown is displayed
+21:09:02.341 [main] INFO  resources.Base - currency dropdown is displayed
+21:09:02.377 [main] INFO  resources.Base - nav bar is displayed
+21:18:14.088 [main] INFO  resources.Base - driverinitialized
+21:18:14.228 [main] INFO  resources.Base - account dropdown is displayed
